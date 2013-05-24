@@ -1,13 +1,10 @@
-VisualCalendariOS
+VisualCalendariOS Created by Asad D gr8.
 =================
 
 A visual calendar for kids for the Bing Fund Hackathon for Autism [http://www.bingfund.com/autism][]
 
 ## Problem:
-* You want to help introduce your child to a calendar and help them stay on task
-* But you don't want to have to use a new tool to manage your child's calendar
-
-## Solution
+*## Solution
 * Use existing calendars with their
 ** Rich scheduling tools
 ** Deep integration on mobile phones like the iPhone
