@@ -10,7 +10,6 @@ A visual calendar for kids for the Bing Fund Hackathon for Autism [http://www.bi
 ** Deep integration on mobile phones like the iPhone
 ** Rich desktop calendar apps like iCal, Exchange
 ** Great features like repeating events
-** Tools familiar to parents so they don't have to learn a new calendar app
 * Build an app that shows the calendar visually
 
 ## How the app works:
